@@ -1,1 +1,1 @@
-# Teste de comfiguração.
+# Teste de configuração.
